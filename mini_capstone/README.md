@@ -6,7 +6,7 @@ This can be anything*! I recommend using a dataset you collected or are working 
 (*)Well, ok, not anything - the only requirement is a dataset that contains at least one column of numerical data (better if it's two, see below). This activity will be more fun and intuitive if it is a ["wide"](https://en.wikipedia.org/wiki/Wide_and_narrow_data) dataset, and the wider the better!
 
 ## Pre-assignment 2: get inspired with an example
-I have included an example of my attempt at re-creating a [figure](https://github.com/jmdelvecchio/geol437-fa24/blob/main/0923/Richardson_et_al_Fig2.png) from a publication using [data](https://github.com/jmdelvecchio/geol437-fa24/blob/main/0923/2019149_TableDR1.csv) supplied in the supplement (which is sometimes very difficult or impossible if the authors are bad at sharing their data; more on that later) with `richardson.ipynb`. You can see that, though it takes a little time and coding, you can (1) load data, (2) "clean" it (eliminate errant symbols and correct data types), and (3) plot it nicely just like in the paper! 
+I have included an example of my attempt at re-creating a figure from a publication using data supplied in the supplement (which is sometimes very difficult or impossible if the authors are bad at sharing their data; more on that later) with `mini_capstone_example.ipynb`. You can see that, though it takes a little time and coding, you can (1) load data, (2) "clean" it (eliminate errant symbols and correct data types), and (3) plot it nicely just like in the paper! 
 
 ## Deliverable for Week 4
 

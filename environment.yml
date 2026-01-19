@@ -1,4 +1,4 @@
-name: serc
+name: geol437
 channels:
 - conda-forge
 - nodefaults

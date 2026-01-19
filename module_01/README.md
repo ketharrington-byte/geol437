@@ -10,7 +10,8 @@
 - [ ]  [Clone](https://swcarpentry.github.io/git-novice/08-collab.html) the repo using `git clone https://github.com/jmdelvecchio/geol437.git`
 - [ ]  Navigate to the newly downloaded `geol437`directory
 
-## Execute the two notebooks in the `0909` directory
-*(Time: approx 3 hours)*
+## Execute all of `01_numpy.ipynb`
+*(Time: approx 1 hour)*
 
-I <b>expect</b> you to complete `python_numpy.ipynb` before our class meeting on the 9th. I <b> encourage</b> you to give the second notebook your best shot, but we will go over the material in class. 
+Nothing to turn in for a grade here, just execute all of the code blocks and understand what each one does (and ask Joanmarie for assistance if you need it)
+

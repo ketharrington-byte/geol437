@@ -4,7 +4,8 @@
 *(Time: approx 30 minutes)*
 
 - Get a W&M [research computing account](https://www.wm.edu/offices/it/services/researchcomputing/acctreq/)
-- Register for Google Earth Engine - [register without a cloud project](https://code.earthengine.google.com/register)
-- [Register for a Planet Labs education account](https://www.planet.com/markets/education-and-research/#apply-now) 
+
 - [Create a GitHub account](https://github.com/join) if you don’t have one
 
+
+- Test access to the HPC cluster: navigate to [notebooks.sciclone.wm.edu](notebooks.sciclone.wm.edu) (you may need to use W&M's [VPN](https://www.wm.edu/offices/it/services/network/vpn/) if you are off-campus)

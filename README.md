@@ -6,7 +6,7 @@
 
 <b>Meeting times</b>: M 5:00-6:50 pm 
 
-<b>Office Hours</b>: XX or [by appointment](https://outlook.office.com/bookwithme/user/c70b4576f7544299af54ec9b68670b62@wm.edu/meetingtype/bqYvCamHo0Od-9ofcY03GQ2?bookingcode=8d5233d7-9203-4407-a33d-dd79b7f7661a&anonymous&ep=mLinkFromTile)
+<b>Office Hours</b>: M 4:00-5:00 pm or [by appointment](https://outlook.office.com/bookwithme/user/c70b4576f7544299af54ec9b68670b62@wm.edu/meetingtype/bqYvCamHo0Od-9ofcY03GQ2?bookingcode=3e70a292-1b47-49b7-9636-9d6f11acc1af&anonymous&ep=mLinkFromTile)
 
 # Class format
 
@@ -53,19 +53,18 @@ This schedule is <b>highly</b> subject to change based on class interest - I pic
 
 | Date   |      Topic      |  Pre-assignment |
 |:----------:|:-------------:|:------:|
-1/19/2026 |	No meeting (but do assignment before the 26th!)	 | Account registration (HPC, GitHub)
-1/26/2026 |Python, environments		 |Module 00
+1/26/2026 |Course intro, Python, environments		 |Account registration (HPC, GitHub), Module 00
 2/2/2026 |`numpy` and `matplotlib`		 |Modules 01 and 02
 2/9/2026 |`pandas` and plotting		 |Modules 03 and 04
 2/16/2026 |Mini-capstone		 |Mini-capstone work
 2/23/2026 |Iterating		 |Module 05
 3/2/2026 |Photogrammetry I		 | Reading
 3/9/2026 |No meeting (Spring Break) |Collect images/scans
-3/16/2026 |Photogrammetry II		 | Reading
-3/23/2026 |Geospatial data - vector and raster data		 |Module 06
-3/30/2026 |Statistics and plotting - `scikit-learn` and `seaborn`		 |Module 07
+3/16/2026 |Geospatial data - vector and raster data		 |Module 06
+3/23/2026 |Statistics and plotting - `scikit-learn` and `seaborn`		 |Module 07 (*Models must be built and sent to VR lab by 3/23!)
+3/30/2026 |Photogrammetry II		 | Models must be built and sent to VR lab by 3/23!
 4/6/2026 |Numerical solutions - forward model		 |Module 08
-4/13/2026 |Photogrammetry III / Machine learning		 | TBA
+4/13/2026 |Flex / Machine learning		 | TBA
 4/20/2026 |Flex / Machine learning		 |TBA
 4/27/2026 |Capstone presentations		 |TBA
 
